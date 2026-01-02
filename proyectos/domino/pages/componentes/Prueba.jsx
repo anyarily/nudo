@@ -9,7 +9,7 @@ export default function Prueba({sumador,objet}){
 {sumador.map( (e)=>{ return <div key={e.id}>
 <h2>{e.numero}</h2>   
 </div> } )}
-<h2>cuidanos</h2>
+<h3>yamil aybar</h3>
 
   </div>  
 }
